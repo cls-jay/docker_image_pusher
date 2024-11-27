@@ -1,4 +1,5 @@
 harisekhon/hbase:2.4.5
+nginx
 #支持私库
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
